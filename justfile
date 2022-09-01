@@ -44,4 +44,4 @@ publish:
 
 # Run code & content linting (TODO)
 lint *params:
-    echo "TODO!"
+    echo "TODO: run linting"
