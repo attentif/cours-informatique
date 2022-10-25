@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 200;
+    src: local('Manrope Extra-Light'), url('fonts/Manrope-ExtraLight.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Manrope Light'), url('fonts/Manrope-Light.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Manrope Regular'), url('fonts/Manrope-Regular.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Manrope Medium'), url('fonts/Manrope-Medium.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Manrope Semi-Bold'), url('fonts/Manrope-SemiBold.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Manrope Bold'), url('fonts/Manrope-Bold.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Manrope Extra-Bold'), url('fonts/Manrope-ExtraBold.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'PT Serif';
+    font-style: italic;
+    font-weight: normal;
+    src: local('PT Serif Italic'), url('fonts/PT_Serif-Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'PT Mono';
+    font-style: normal;
+    font-weight: normal;
+    src: local('PT Mono'), url('fonts/PT_Mono.woff') format('woff');
+}

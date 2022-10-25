@@ -1,0 +1,36 @@
+:root {
+    /* --vp-c-brand: #646cff;
+    --vp-c-brand-light: #747bff; */
+    --vp-font-family-base: 'Manrope';
+    --vp-font-family-mono: 'PT Mono';
+    --vp-code-font-size: 1.06em;
+}
+
+html {
+    font-size: 18px;
+}
+
+.vp-doc h1 {
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.03em !important;
+}
+
+.vp-doc .header-anchor {
+    padding-right: 0;
+}
+
+.vp-doc ul {
+    list-style-type: '—  ';
+}
+
+.vp-doc em {
+    font-family: 'PT Serif';
+    font-style: italic;
+    font-size: 1.06em;
+}
+
+.custom-block-title {
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
