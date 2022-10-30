@@ -15,4 +15,4 @@ Le contenu et les fonctionnalités sont encore embryonnaires et évolueront au f
 ## Licence
 
 Sauf indication contraire, le contenu est offert sous licence Creative Commons 4.0: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Paternité - Pas d'utilisation commerciale - Partage des conditions initiales à l'identique</a><br>
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Contrat Creative Commons" style="border-width:0" src="img/license-cc-by-nc-sa.svg" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Contrat Creative Commons" style="border-width:0" src="./img/license-cc-by-nc-sa.svg" /></a>
