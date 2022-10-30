@@ -1,11 +1,11 @@
 ---
 aliases: []
-tags: [Bases]
+tags: [Environnement]
 ---
 
 # Le dossier ‘Échanges’
 
-Le dossier `Échanges` est accessible depuis tout ordinateur connecté au réseau de l'école. On peut y accéder par le raccourci du même nom sur le bureau de l'ordinateur (icône 📁), ou par navigateur de fichiers (p.ex. dans la barre de gauche).
+`Échanges` est un dossier partagé accessible depuis tout ordinateur connecté au réseau de l'école. On peut l'ouvrir par le raccourci du même nom sur le bureau de l'ordinateur (icône 📁), ou par le navigateur de fichiers (p.ex. dans la barre de gauche). Il contient notamment les dossiers `Cours` et `Tous` utilisés en classe.
 
 
 ## Le dossier ‘Cours’
@@ -15,7 +15,7 @@ Le dossier `Échanges` est accessible depuis tout ordinateur connecté au résea
 Utilisé par l'enseignant pour partager consignes et autres fichiers. **Les élèves ne peuvent pas modifier ce qui s'y trouve**.
 
 ::: tip Remarque
-Si on essaie d'ouvrir depuis `Cours` un fichier pour le modifier (p.ex. un document texte), un avertissement s'affiche et propose d'ouvrir une copie du fichier, qu'on peut alors enregistrer dans son dossier (p.ex. dans `Tous`).
+Si on essaie d'ouvrir depuis `Cours` un fichier pour le modifier (p.ex. un document texte), un avertissement s'affiche et propose d'ouvrir une copie du fichier, qu'on peut alors enregistrer ailleurs (p.ex. dans `Tous`).
 :::
 
 

@@ -1,16 +1,16 @@
 ---
 layout: home
 hero:
-  name: Cours d’informatique
+  name: Cours d’informatique 🚧
   text: Simon Goumaz
-  tagline: 🚧 En construction 🚧
+  tagline: Explorer et faire sens du numérique à la croisée des chemins
   actions:
     - theme: brand
-      text: 'Commencer avec les bases'
-      link: /bases/vie-en-classe
-    # - theme: alt
-    #   text: View on GitHub
-    #   link: https://github.com/vuejs/vitepress
+      text: '▶︎ Présentation du cours'
+      link: /cadre/introduction
+    - theme: alt
+      text: '▶︎ Premières bases'
+      link: /environnement/bases
 # features:
 #   - icon: ⚡️
 #     title: Vite, The DX that can't be beat

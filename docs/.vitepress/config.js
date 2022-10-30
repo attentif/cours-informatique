@@ -12,17 +12,48 @@ export default {
       prev: 'Page précédente',
       next: 'Page suivante'
     },
-    // nav: [
+    nav: [
+      {
+        text: 'À propos de ces pages',
+        link: '/a-propos'
+      }
+    ],
     sidebar: [
       {
-        text: 'Les bases',
+        text: 'Cadre de cours',
         items: [
-          { text: 'Vie en classe', link: '/bases/vie-en-classe' },
-          { text: 'Évaluation', link: '/bases/evaluation' },
-          { text: 'Compte EEL', link: '/bases/compte-eel' },
-          { text: 'Dossier ‘Échanges’', link: '/bases/dossier-echanges' },
-          { text: 'Clé USB', link: '/bases/sauvegarde-cle-usb' }
+          { text: 'Introduction', link: '/cadre/introduction' },
+          { text: 'Vie en classe', link: '/cadre/vie-en-classe' },
+          { text: 'Évaluation', link: '/cadre/evaluation' }
         ]
+      },
+      {
+        text: 'Environnement informatique',
+        items: [
+          { text: 'Premières bases', link: '/environnement/bases' }
+        ]
+      },
+      {
+        text: 'Machines, systèmes, réseaux',
+        items: []
+      },
+      {
+        text: 'Utilisation des outils',
+        items: []
+      },
+      {
+        text: 'Recherche, communication & coopération',
+        items: []
+      },
+      {
+        text: 'Information & données',
+        items: [
+          { text: 'Numérisation de l’information', link: '/information-donnees/numerisation-information' }
+        ]
+      },
+      {
+        text: 'Algorithmes & programmation',
+        items: []
       }
     ]
   }

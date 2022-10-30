@@ -1,13 +1,13 @@
 ---
 aliases: []
-tags: [Bases]
+tags: [Cadre]
 ---
 
 # Évaluation
 
 ## 9ème année
 
-Il n'y a pas encore de note d'informatique en 9ème année, mais des évaluations sont faites régulièrement pour permettre à chacun·e de se situer dans l'apprentissage.
+Le cours ne fait pas (encore) l'objet d'une note en 9ème année, mais des évaluations sont faites régulièrement pour permettre à chacun·e de se situer dans l'apprentissage.
 
 ## 10ème et 11ème CT
 

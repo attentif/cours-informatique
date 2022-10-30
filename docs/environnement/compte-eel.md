@@ -1,6 +1,6 @@
 ---
 aliases: [Compte EEL]
-tags: [Bases]
+tags: [Environnement]
 ---
 
 # Compte École En Ligne (EEL)
