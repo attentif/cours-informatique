@@ -9,7 +9,7 @@
   "author": "Simon Goumaz <simon@attentif.ch>",
   "license": "ISC",
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.22",
+    "vitepress": "^1.0.0-alpha.26",
     "vue": "^3.2.41"
   }
 }
