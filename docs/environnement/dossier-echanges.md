@@ -1,9 +1,10 @@
 ---
+title: Le dossier ‘Échanges’
 aliases: []
 tags: [Environnement]
 ---
 
-# Le dossier ‘Échanges’
+# {{ $frontmatter.title }}
 
 `Échanges` est un dossier partagé accessible depuis tout ordinateur connecté au réseau de l'école. On peut l'ouvrir par le raccourci du même nom sur le bureau de l'ordinateur (icône 📁), ou par le navigateur de fichiers (p.ex. dans la barre de gauche). Il contient notamment les dossiers `Cours` et `Tous` utilisés en classe.
 

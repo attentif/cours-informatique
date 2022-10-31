@@ -1,9 +1,10 @@
 ---
+title: Évaluation
 aliases: []
 tags: [Cadre]
 ---
 
-# Évaluation
+# {{ $frontmatter.title }}
 
 ## 9ème année
 

@@ -1,10 +1,11 @@
 ---
+title: Sauvegarder son dossier sur la clé USB
 aliases: []
 sources: ["https://renardeau.ch/cours/index.php?p=cours&cours_id=234&classe_id_selected=&matiere_id_selected=57"]
 tags: [Environnement]
 ---
 
-# Sauvegarder son dossier sur la clé USB
+# {{ $frontmatter.title }}
 
 1.  **Naviguer** jusqu'au dossier de son groupe: _Échanges_ → _Tous_ → _Nom prof_ → _Groupe_ (p.ex. `Échanges/Tous/Goumaz/931`)
 2.  **Insérer** la clé USB dans l'un des connecteurs

@@ -1,9 +1,10 @@
 ---
+title: Premières bases 🚧
 aliases: []
 tags: [Environnement]
 ---
 
-# Premières bases 🚧
+# {{ $frontmatter.title }}
 
 
 - [Compte École En Ligne (EEL)](compte-eel)

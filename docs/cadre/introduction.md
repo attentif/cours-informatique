@@ -1,9 +1,10 @@
 ---
+title: Présentation du cours
 aliases: []
 tags: [Cadre]
 ---
 
-# Présentation du cours
+# {{ $frontmatter.title }}
 
 Ce cours d'informatique s'inscrit dans le cadre du [programme cantonal du cycle d'orientation](https://edu.ge.ch/enseignement/sites/default/files/2022-07/informatique_programme-pilote_2022.pdf) et suit sa structuration en thèmes comme suit:
 

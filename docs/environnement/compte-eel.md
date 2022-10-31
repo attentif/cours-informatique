@@ -1,9 +1,10 @@
 ---
+title: Compte École En Ligne (EEL)
 aliases: [Compte EEL]
 tags: [Environnement]
 ---
 
-# Compte École En Ligne (EEL)
+# {{ $frontmatter.title }}
 
 
 ## Les infos à conserver

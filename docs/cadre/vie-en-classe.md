@@ -1,9 +1,10 @@
 ---
+title: La vie en classe
 aliases: []
 tags: [Cadre]
 ---
 
-# La vie en classe
+# {{ $frontmatter.title }}
 
 Points de référence pour des cours dans la paix (relative) et le respect.
 
